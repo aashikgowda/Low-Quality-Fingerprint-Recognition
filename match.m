@@ -1,3 +1,9 @@
+%{
+Matching function for features from Probe and Gallery
+
+Aashik Nagadikeri Harish
+aashikgowda@ufl.edu
+%}
 tic
 pfiles = dir('C:\Users\aashi_000\Documents\MATLAB\Biometric\Fingerprint Enhancement\Probe\*.txt');
 plen = length(pfiles);
