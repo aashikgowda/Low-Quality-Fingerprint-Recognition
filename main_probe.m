@@ -1,3 +1,9 @@
+%{
+Probe Images - feature extraction
+
+Aashik Nagadikeri Harish
+aashikgowda@ufl.edu
+%}
 %************************IMAGE INPUT***************************%
 files = dir('C:\Users\aashi_000\Documents\MATLAB\Biometric\Fingerprint Enhancement\Probe\*.tif');
 len = length(files);
